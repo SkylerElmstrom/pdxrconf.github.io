@@ -37,99 +37,113 @@ this year and hope to see you there!</h3>
 
 ***
 ### Past conferences
-#### 2024
 
-+ Ellis Hughes
-+ [Jacqueline Nolis](https://jnolis.com/)
-+ [Kim Dill-McFarland](https://kdillmcfarland.github.io/)
-+ [Brittany Barker](http://brittanysbarker.org)
-+ Brittney Kroiss
-+ Cameron Mulder
-+ Cari Gostic
-+ [Dominik Grätz](https://www.researchgate.net/profile/Dominik-Graetz-2)
-+ Ezgi Yucel
-+ [Jadey Ryan](https://jadeyryan.com)
-+ Katie Masiello
-+ [Lydia Gibson](https://lgibson7.quarto.pub/once-upon-a-time-series/about.html)
-+ Miranda Fix
-+ Mohsen Soltanifar
-+ Peter Geissert
-+ Rhonda Crate
-+ Tim Anderson
+<details>
+  <summary><h4>2024</h4></summary>
+  
+  - Ellis Hughes
+  - [Jacqueline Nolis](https://jnolis.com/)
+  - [Kim Dill-McFarland](https://kdillmcfarland.github.io/)
+  - [Brittany Barker](http://brittanysbarker.org)
+  - Brittney Kroiss
+  - Cameron Mulder
+  - Cari Gostic
+  - [Dominik Grätz](https://www.researchgate.net/profile/Dominik-Graetz-2)
+  - Ezgi Yucel
+  - [Jadey Ryan](https://jadeyryan.com)
+  - Katie Masiello
+  - [Lydia Gibson](https://lgibson7.quarto.pub/once-upon-a-time-series/about.html)
+  - Miranda Fix
+  - Mohsen Soltanifar
+  - Peter Geissert
+  - Rhonda Crate
+  - Tim Anderson
 
-#### 2023
+</details>
 
-+ [Brittany Barker](http://brittanysbarker.org)
-+ Brittney Kroiss
-+ [Dominik Grätz](https://www.researchgate.net/profile/Dominik-Graetz-2)
-+ Ellis Hughes
-+ Ezgi Yucel
-+ [Jacqueline Nolis](https://jnolis.com/)
-+ Katie Masiello
-+ [Kim Dill-McFarland](https://kdillmcfarland.github.io/)
-+ Melissa Lee
-+ Tim Anderson
+<details>
+  <summary><h4>2023</h4></summary>
+  
+  - [Brittany Barker](http://brittanysbarker.org)
+  - Brittney Kroiss
+  - [Dominik Grätz](https://www.researchgate.net/profile/Dominik-Graetz-2)
+  - Ellis Hughes
+  - Ezgi Yucel
+  - [Jacqueline Nolis](https://jnolis.com/)
+  - Katie Masiello
+  - [Kim Dill-McFarland](https://kdillmcfarland.github.io/)
+  - Melissa Lee
+  - Tim Anderson
 
-#### 2022
+</details>
 
-+ Ellis Hughes
-+ [Lea Frank](https://lea-frank.netlify.app/)
-+ [Brittany Barker](http://brittanysbarker.org)
-+ Melissa Lee
-+ Laura O' Mahony
-+ [Ted Laderas](https://laderast.github.io )
-+ Ben McCary
+<details>
+  <summary><h4>2022</h4></summary>
+  
+  - Ellis Hughes
+  - [Lea Frank](https://lea-frank.netlify.app/)
+  - [Brittany Barker](http://brittanysbarker.org)
+  - Melissa Lee
+  - Laura O' Mahony
+  - [Ted Laderas](https://laderast.github.io)
+  - Ben McCary
 
-#### 2021
+</details>
 
-+ [Ellis Hughes](http://twitter.com/thebioengineer)
-+ Martin Monkman
-+ [Kate Hertweck](http://katehertweck.com)
-+ [Daniel Anderson](https://www.datalorax.com/about/)
-+ [Lea E. Frank](https://github.com/lfrank14)
-+ [Ted Laderas](https://laderast.github.io)
-+ John David Smith
-+ [Dani Chu](https://danichusfu.github.io/)
-+ Marie Vendettuoli
-+ Brittany Barker
-+ Melissa Lee
-+ [Ariel Muldoon](https://aosmith.rbind.io/)
-+ Daniella Mark
-+ [Helen Miller](https://github.com/helenmiller16)
-+ Rodolfo Lourenzutti
+<details>
+  <summary><h4>2021</h4></summary>
+  
+  - [Ellis Hughes](http://twitter.com/thebioengineer)
+  - Martin Monkman
+  - [Kate Hertweck](http://katehertweck.com)
+  - [Daniel Anderson](https://www.datalorax.com/about/)
+  - [Lea E. Frank](https://github.com/lfrank14)
+  - [Ted Laderas](https://laderast.github.io)
+  - John David Smith
+  - [Dani Chu](https://danichusfu.github.io/)
+  - Marie Vendettuoli
+  - Brittany Barker
+  - Melissa Lee
+  - [Ariel Muldoon](https://aosmith.rbind.io/)
+  - Daniella Mark
+  - [Helen Miller](https://github.com/helenmiller16)
+  - Rodolfo Lourenzutti
 
-#### 2020
+</details>
 
-+ [Daniel Anderson](https://www.datalorax.com/about/)
-+ [Patrick Kennedy](https://ctl.uoregon.edu/about/staff/patrick-kennedy)
-+ [Raina Megert](https://education.uoregon.edu/people/faculty/rainam)
-+ [Alison Hill](https://alison.rbind.io/)
-+ [Brendan Cullen](https://bcullen.rbind.io/)
+<details>
+  <summary><h4>2020</h4></summary>
+  
+  - [Daniel Anderson](https://www.datalorax.com/about/)
+  - [Patrick Kennedy](https://ctl.uoregon.edu/about/staff/patrick-kennedy)
+  - [Raina Megert](https://education.uoregon.edu/people/faculty/rainam)
+  - [Alison Hill](https://alison.rbind.io/)
+  - [Brendan Cullen](https://bcullen.rbind.io/)
 
-#### 2019
+</details>
 
-+ Terry Christiani
-+ David Henderson
-+ Ellis Hughes
-+ Lindsey Hughes
-+ Daniella Mark
-+ Mehar Singh
-+ David Smith
+<details>
+  <summary><h4>2019</h4></summary>
+  
+  - Terry Christiani
+  - David Henderson
+  - Ellis Hughes
+  - Lindsey Hughes
+  - Daniella Mark
+  - Mehar Singh
+  - David Smith
 
+</details>
 
-#### 2017/2018
+<details>
+  <summary><h4>2017/2018</h4></summary>
+  
+  - Aaron Makubuya
+  - Jessica Minnier
+  - Lilly Winfree
+  - Chester Ismay
+  - John Smith
+  - Ted Laderas
+  - Scott Chamberlain
 
-+ Aaron Makubuya
-+ Jessica Minnier
-+ Lilly Winfree
-+ Chester Ismay
-+ John Smith
-+ Ted Laderas
-+ Scott Chamberlain
-
-
-
-
-
-
-
+</details>
