@@ -32,7 +32,7 @@ this year and hope to see you there!</h3>
 + Peter Geissert
 + Sara Grusing
 + Scott Hancock
-+ Skyler Elmstrom
++ [Skyler Elmstrom](https://skylere.com)
 + Travis Knoche
 
 ***
